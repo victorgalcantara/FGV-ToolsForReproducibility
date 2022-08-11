@@ -1,2 +1,2 @@
-# FGV2022
-update
+# FGV Data Course
+My course at FGV
